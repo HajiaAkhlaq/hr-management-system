@@ -1,0 +1,954 @@
+Application_ID,Candidate_ID,Job_ID,Application_Date,Final_Status,Additional_Remarks
+APP-0001,CC - 001,J001,3-May-25,Rejected,"The candidates current salary package exceeds the offered range, and after evaluation, the panel concluded that the candidate does not fully meet the suitability criteria for the role."
+APP-0002,CC - 002,J001,29-Apr-25,Rejected, 
+APP-0003,CC - 003,J001,30-Apr-25,Rejected,Amber Category
+APP-0004,CC - 004,J001,9-May-25,Hired but Left, 
+APP-0005,CC - 005,J001,11-May-25,Hired but Left,Left Training due to her new job 
+APP-0006,CC - 006,J001,11-May-25,Rejected,Contacted twice havent got any response
+APP-0007,CC - 007,J001,11-May-25,Rejected,Not showed up in the interview despite contacting
+APP-0008,CC - 008,J001,11-May-25,No Response,No Response Upon Contacting
+APP-0009,CC - 009,J001,11-May-25,No Response,No Response Upon Contacting
+APP-0010,CC - 010,J001,11-May-25,No Response,No Response Upon Contacting
+APP-0011,CC - 011,J001,11-May-25,No Response,No Response Upon Contacting
+APP-0012,CC - 012,J001,11-May-25,No Response,No Response Upon Contacting
+APP-0013,CC - 013,J001,11-May-25,Rejected,Didnt showed up for the interview despited confirming on phone.
+APP-0014,CC - 014,J001,11-May-25,No Response,No Response Upon Contacting
+APP-0015,CC - 015,J001,11-May-25,No Response,No Response Upon Contacting
+APP-0016,CC - 016,J001,11-May-25,Hired, 
+APP-0017,CC - 017,J001,11-May-25,Hired, 
+APP-0018,CC - 018,J001,11-May-25,No Response, 
+APP-0019,CC - 019,J001,11-May-25,Hired but Left, 
+APP-0020,CC - 020,J001,11-May-25,Rejected,"She has been asked twice to conduct the english languange test, she havent responded on that, the Hr called for the interview but she didnt showed up on that as well."
+APP-0021,CC - 021,J001,11-May-25,No Response, 
+APP-0022,CC - 022,J001,11-May-25,Rejected,Amber Category
+APP-0023,CC - 023,J001,11-May-25,No Response, 
+APP-0024,CC - 024,J001,11-May-25,No Response, 
+APP-0025,CC - 025,J001,11-May-25,Rejected,Didnt showed up for the interview despited confirming on phone.
+APP-0026,CC - 026,J001,12-May-25,Hired but Left,Passed by Grace Marks( Left Training due to Internet issue in her region)
+APP-0027,CC - 027,J001,12-May-25,No Response, 
+APP-0028,CC - 028,J001,15-May-25,Hired but Left, 
+APP-0029,CC - 029,J001,15-May-25,Hired, 
+APP-0030,CC - 030,J001, ,Hired but Left, 
+APP-0031,CC - 031,J001,15-May-25,Hired, 
+APP-0032,CC - 032,J001,15-May-25,Hired but Left,Hired but left trainig due to not having an updated laptop
+APP-0033,CC - 033,J001,15-May-25,Rejected,Rejected
+APP-0034,CC - 034,J001,15-May-25,Rejected,Will have to go for second round of interview with the OP Manger
+APP-0035,CC - 035,J001,15-May-25,Rejected,Not valid Email Address + no response upon contacting
+APP-0036,CC - 036,J001,15-May-25,No Response, 
+APP-0037,CC - 037,J001,15-May-25,No Response, 
+APP-0038,CC - 038,J001,15-May-25,No Response, 
+APP-0039,CC - 039,J001,17-May-25,Rejected, 
+APP-0040,CC - 040,J001,17-May-25,Hired, 
+APP-0041,CC - 041,J001,17-May-25,Rejected, 
+APP-0042,CC - 042,J001,17-May-25,Hired, 
+APP-0043,CC - 043,J001,17-May-25,Hired but Left, 
+APP-0044,CC - 044,J001,17-May-25,Rejected,Not valid Email Address
+APP-0045,CC - 045,J001,17-May-25,Rejected,"Candidate reported recurring internet outages in their region, potentially impacting remote work."
+APP-0046,CC - 046,J001,17-May-25,Hired but Left, 
+APP-0047,CC - 047,J001,19-May-25,Hired but Left,Refree : Maryam
+APP-0048,CC - 048,J001,19-May-25,Rejected,An LLB student dosent fit for the job role
+APP-0049,CC - 049,J001,21-May-25,No Response,No response
+APP-0050,CC - 050,J001,21-May-25,No Response,No response
+APP-0051,CC - 051,J001,21-May-25,No Response,No response
+APP-0052,CC - 052,J001,21-May-25,No Response,No response
+APP-0053,CC - 053,J001,21-May-25,No Response,No response
+APP-0054,CC - 054,J001,21-May-25,No Response,No response
+APP-0055,CC - 055,J001,21-May-25,No Response,No response
+APP-0056,CC - 056,J001,21-May-25,No Response,No response
+APP-0057,CC - 057,J001,22-May-25,Rejected,The candidate informed HR of their decision to decline the offer and requested to be removed from consideration.
+APP-0058,CC - 058,J001,22-May-25,Rejected,"Upon Contacting He asked to cancel his name from the list, not intersted in the job role"
+APP-0059,CC - 059,J001,22-May-25,Hired but Left, 
+APP-0060,CC - 060,J001,22-May-25,Hired, 
+APP-0061,CC - 061,J001,22-May-25,No Response, 
+APP-0062,CC - 062,J001,22-May-25,Hired,"Candidate is currently unavailable to join until November, citing commitments to ongoing Pharm D examinations and studies."
+APP-0063,CC - 063,J001,noor,Hired, 
+APP-0064,CC - 064,J001, ,Rejected,He Didnt Shown up for the interview 
+APP-0065,CC - 065,J001, ,Hired but Left,Didnt showed up for the interview session
+APP-0066,CC - 066,J001, ,Rejected,Didnt showed up for the interview session
+APP-0067,CC - 067,J001, ,Rejected,Didnt showed up for the interview session
+APP-0068,CC - 068,J001, ,Rejected,Didnt showed up for the interview session
+APP-0069,CC - 069,J001, ,Rejected,"He was not fit for the role plus the salary Pakage we are offering, he is not willing to work on that"
+APP-0070,CC - 070,J001, ,Rejected,"Candidate is seeking part-time employment, currently holding a full-time position in a private firm."
+APP-0071,CC - 071,J001, ,Rejected,Need to shedule a second round of interview for him with the OP Manager
+APP-0072,CC - 072,J001, ,Rejected,She was not qualified for the clinical coder role as per the panel decission.
+APP-0073,CC - 073,J001,4-Jun-25,Hired but Left, 
+APP-0074,CC - 074,J001, ,Rejected,"She is Under 18, not eligible for the role "
+APP-0075,CC - 075,J001, ,Rejected,"The candidate wants a part time role, cannot work with us full-time."
+APP-0076,CC - 076,J001,11-Apr-25,Rejected,"Successfully interviewed. However, candidate subsequently indicated unavailability for full-time work."
+APP-0077,CC - 077,J001, ,Rejected,Already Sacked by previous HR
+APP-0078,CC - 078,J001, ,Rejected,GMC registered doctor willing to work on part time basis only
+APP-0079,CC - 079,J001, ,Rejected,Rejected (part - timer)
+APP-0080,CC - 080,J001, ,Rejected,"Contacted twice, not intersted in the job role"
+APP-0081,CC - 081,J001, ,Rejected,She is not suitable for the job role
+APP-0082,CC - 082,J001, ,Rejected,Her second round of interview is pending due to her unavailability
+APP-0083,CC - 083,J001, ,Rejected, 
+APP-0084,CC - 084,J001,9-Jun-25,Rejected, 
+APP-0085,CC - 085,J001, ,Hired but Left, 
+APP-0086,CC - 086,J001, ,Rejected, 
+APP-0087,CC - 087,J001, ,Hired but Left, 
+APP-0088,CC - 088,J001, ,No Response, 
+APP-0089,CC - 089,J001, ,Hired, 
+APP-0090,CC - 090,J001, ,Rejected,"contacted the candidate for the interview, he is not intersted to work with us on the offered package."
+APP-0091,CC - 091,J001,16-Jun-25,Rejected,"The candidate is well-qualified, however, she is unable to commit to a full-time position due to her obligations at a private clinic."
+APP-0092,CC - 092,J001, ,Rejected,Upon contacting she confirmed that she cant do any job yet
+APP-0093,CC - 093,J001, ,Hired, 
+APP-0094,CC - 094,J001, ,Hired, 
+APP-0095,CC - 095,J001, ,Rejected,"Contacted her twice, got no response"
+APP-0096,CC - 096,J001, ,Rejected,"Contacted her, she is not intersted in the job"
+APP-0097,CC - 097,J001, ,Rejected, 
+APP-0098,CC - 098,J001, ,Rejected,The candidate is working as a community pharmacist already and cant commit to us full time
+APP-0099,CC - 099,J001, ,No Response,No Response upon contacting
+APP-0100,CC - 100,J001, ,Hired, 
+APP-0101,CC - 101,J001, ,Hired,She will confirm her availibility for the full time role 
+APP-0102,CC - 102,J001, ,Rejected, 
+APP-0103,CC - 103,J001, ,No Response,No Response Upon Contacting
+APP-0104,CC - 104,J001, ,Hired, 
+APP-0105,CC - 105,J001, ,Hired, 
+APP-0106,CC - 106,J001, ,Hired but Left, 
+APP-0107,CC - 107,J001, ,Rejected, 
+APP-0108,CC - 108,J001, ,Rejected, 
+APP-0109,CC - 109,J001, ,Hired but Left, 
+APP-0110,CC - 110,J001, ,Amber,she informed HR Just before the interview that she had a death in her family so she cant join
+APP-0111,CC - 111,J001, ,Rejected,She wanted to work on part time basis
+APP-0112,CC - 112,J001, ,No Response,She will confirm her timings
+APP-0113,CC - 113,J001, ,Rejected,She is not intersted in the job role
+APP-0114,CC - 114,J001, ,Rejected,She had time constaints due to her up coming marriage
+APP-0115,CC - 115,J001, ,Rejected,Needs to attempt english test 
+APP-0116,CC - 116,J001, ,Rejected,She is not intersted in the job role
+APP-0117,CC - 117,J001, ,Rejected,she will be avaialbe on 4th july
+APP-0118,CC - 118,J001, ,Rejected,Her network was weak in interview didnt connect
+APP-0119,CC - 119,J001, ,Rejected,She is not intersted in the job role
+APP-0120,CC - 120,J001, ,Rejected,Didnt showed up for the interview
+APP-0121,CC - 121,J001, ,Rejected,Needs to attempt english test 
+APP-0122,CC - 122,J001, ,Rejected, 
+APP-0123,CC - 123,J001, ,No Response, 
+APP-0124,CC - 124,J001, ,Rejected,Didnt showed up for the interview
+APP-0125,CC - 125,J001, ,No Response,She will be availabe on 7 july
+APP-0126,CC - 126,J001, ,Rejected,Needs to attempt english test 
+APP-0127,CC - 127,J001, ,No Response, 
+APP-0128,CC - 128,J001, ,Hired but Left, 
+APP-0129,CC - 129,J001, ,Rejected,She is having issues with the working hours
+APP-0130,CC - 130,J001, ,No Response, 
+APP-0131,CC - 131,J001, ,No Response, 
+APP-0132,CC - 132,J001, ,Rejected, 
+APP-0133,CC - 133,J001, ,Rejected,She is looking for a part time role
+APP-0134,CC - 134,J001, ,Rejected,poor english and not suitable for the role
+APP-0135,CC - 135,J001, ,Rejected, 
+APP-0136,CC - 136,J001, ,No Response, 
+APP-0137,CC - 137,J001, ,Rejected, 
+APP-0138,CC - 138,J001, ,Hired, 
+APP-0139,CC - 139,J001, ,Rejected,She want to work on part time basis
+APP-0140,CC - 140,J001, ,Hired, 
+APP-0141,CC - 141,J001, ,Rejected,he is in village not available
+APP-0142,CC - 142,J001, ,Hired,1.45 :PM (current taking a big pakage)
+APP-0143,CC - 143,J001, ,Hired,She will confirm the timings for monday
+APP-0144,CC - 144,J001, ,No Response, 
+APP-0145,CC - 145,J001, ,No Response, 
+APP-0146,CC - 146,J001, ,No Response, 
+APP-0147,CC - 147,J001, ,Hired, 
+APP-0148,CC - 148,J001, ,Rejected,6:30PM Pakistan time
+APP-0149,CC - 149,J001, ,Hired but Left,1:15PM
+APP-0150,CC - 150,J001, ,Hired, 
+APP-0151,CC - 151,J001, ,Rejected,He has offered the job role he will confirm that in a day or two
+APP-0152,CC - 152,J001, ,Rejected,Not availalbe
+APP-0153,CC - 153,J001, ,Rejected,2:00 PM
+APP-0154,CC - 154,J001, ,Rejected, 
+APP-0155,CC - 155,J001, ,Rejected, 
+APP-0156,CC - 156,J001, ,Rejected,2:50 PM
+APP-0157,CC - 157,J001, ,No Response, 
+APP-0158,CC - 158,J001, ,No Response, 
+APP-0159,CC - 159,J001, ,Hired but Left,4:00 PM
+APP-0160,CC - 160,J001, ,No Response, 
+APP-0161,CC - 161,J001, ,No Response, 
+APP-0162,CC - 162,J001, ,Hired, 
+APP-0163,CC - 163,J001, ,No Response, 
+APP-0164,CC - 164,J001, ,No Response, 
+APP-0165,CC - 165,J001, ,No Response, 
+APP-0166,CC - 166,J001, ,Rejected,Not suitable for the role
+APP-0167,CC - 167,J001, ,No Response, 
+APP-0168,CC - 168,J001, ,Rejected,Not suitable for the role
+APP-0169,CC - 169,J001, ,Rejected,Not suitable for the role
+APP-0170,CC - 170,J001, ,No Response, 
+APP-0171,CC - 171,J001, ,No Response, 
+APP-0172,CC - 172,J001, ,No Response, 
+APP-0173,CC - 173,J001, ,Rejected,Not suitable for the role
+APP-0174,CC - 174,J001, ,Rejected,Not Reachable
+APP-0175,CC - 175,J001, ,Rejected,Not Reachable
+APP-0176,CC - 176,J001, ,Hired but Left, 
+APP-0177,CC - 177,J001, ,Rejected,Not suitable for the role
+APP-0178,CC - 178,J001, ,No Response, 
+APP-0179,CC - 179,J001, ,Rejected,Wants to negotiate on salry
+APP-0180,CC - 180,J001, ,No Response, 
+APP-0181,CC - 181,J001, ,Rejected,Didnt showed up for the interview
+APP-0182,CC - 182,J001, ,No Response, 
+APP-0183,CC - 183,J001, ,No Response, 
+APP-0184,CC - 184,J001, ,No Response, 
+APP-0185,CC - 185,J001, ,No Response, 
+APP-0186,CC - 186,J001, ,No Response, 
+APP-0187,CC - 187,J001, ,No Response, 
+APP-0188,CC - 188,J001, ,No Response, 
+APP-0189,CC - 189,J001, ,Hired but Left, 
+APP-0190,CC - 190,J001, ,No Response, 
+APP-0191,CC - 191,J001, ,No Response, 
+APP-0192,CC - 192,J001, ,No Response, 
+APP-0193,CC - 193,J001, ,Hired, 
+APP-0194,CC - 194,J001, ,No Response, 
+APP-0195,CC - 195,J001, ,No Response, 
+APP-0196,CC - 196,J001, ,Rejected, 
+APP-0197,CC - 197,J001, ,No Response, 
+APP-0198,CC - 198,J001, ,Rejected, 
+APP-0199,CC - 199,J001, ,No Response, 
+APP-0200,CC - 200,J001, ,Rejected, 
+APP-0201,CC - 201,J001, ,No Response, 
+APP-0202,CC - 202,J001, ,No Response, 
+APP-0203,CC - 203,J001, ,Rejected, 
+APP-0204,CC - 204,J001, ,Rejected,Not willing to work with our compensation structure
+APP-0205,CC - 205,J001, ,No Response, 
+APP-0206,CC - 206,J001, ,Hired but Left, 
+APP-0207,CC - 207,J001, ,Rejected, 
+APP-0208,CC - 208,J001, ,Rejected, 
+APP-0209,CC - 209,J001, ,Rejected,She is not intersted in the job role
+APP-0210,CC - 210,J003, ,Hired, 
+APP-0211,CC - 211,J001, ,Rejected,she is not intersted in the job
+APP-0212,CC - 212,J001, ,No Response, 
+APP-0213,CC - 213,J001, ,No Response, 
+APP-0214,CC - 214,J001, ,No Response, 
+APP-0215,CC - 215,J001, ,No Response, 
+APP-0216,CC - 216,J001, ,No Response, 
+APP-0217,CC - 217,J004, ,No Response, 
+APP-0218,CC - 218,J001, ,No Response, 
+APP-0219,CC - 219,J001, ,No Response, 
+APP-0220,CC - 220,J001, ,Rejected, 
+APP-0221,CC - 221,J001, ,No Response, 
+APP-0222,CC - 222,J001, ,No Response, 
+APP-0223,CC - 223,J001, ,No Response, 
+APP-0224,CC - 224,J001, ,No Response, 
+APP-0225,CC - 225,J001, ,No Response, 
+APP-0226,CC - 226,J001, ,No Response, 
+APP-0227,CC - 227,J001, ,No Response, 
+APP-0228,CC - 228,J001, ,No Response, 
+APP-0229,CC - 229,J001, ,No Response, 
+APP-0230,CC - 230,J001, ,Hired, 
+APP-0231,CC - 231,J001, ,Hired but Left, 
+APP-0232,CC - 232,J001, ,No Response, 
+APP-0233,CC - 233,J001, ,Hired but Left, 
+APP-0234,CC - 234,J001, ,Rejected, 
+APP-0235,CC - 235,J001, ,No Response, 
+APP-0236,CC - 236,J001, ,Rejected,Not intersted in the job role
+APP-0237,CC - 237,J001, ,No Response, 
+APP-0238,CC - 238,J001, ,No Response, 
+APP-0239,CC - 239,J001, ,Rejected,He is not willing to work under our salary packages
+APP-0240,CC - 240,J001, ,Hired but Left, 
+APP-0241,CC - 241,J001, ,Hired but Left, 
+APP-0242,CC - 242,J001, ,Hired but Left, 
+APP-0243,CC - 243,J001, ,Rejected,Waiting for her english Test score to schedule another round of interview
+APP-0244,CC - 244,J001, ,Hired but Left, 
+APP-0245,CC - 245,J001, ,Hired but Left, 
+APP-0246,CC - 246,J001, ,No Response, 
+APP-0247,CC - 247,J001, ,Rejected,she will have a second round of interview near 1 Aug
+APP-0248,CC - 248,J001, ,Rejected, 
+APP-0249,CC - 249,J001, ,Rejected, 
+APP-0250,CC - 250,J001, ,Rejected,she is not intersted in the job role
+APP-0251,CC - 251,J001, ,Rejected, 
+APP-0252,CC - 252,J001, ,No Response, 
+APP-0253,CC - 253,J001, ,No Response, 
+APP-0254,CC - 254,J001, ,No Response, 
+APP-0255,CC - 255,J001, ,No Response, 
+APP-0256,CC - 256,J001, ,No Response, 
+APP-0257,CC - 257,J001, ,Rejected,He is looking for part time roles
+APP-0258,CC - 258,J001, ,Hired but Left,4:45 Pm Pakistan time
+APP-0259,CC - 259,J001, ,Rejected,1:00 PM pakistan time
+APP-0260,CC - 260,J001, ,Rejected,1:15 PM Pakitan time
+APP-0261,CC - 261,J001, ,Rejected,1:30 PM
+APP-0262,CC - 262,J001, ,No Response, 
+APP-0263,CC - 263,J001, ,Rejected,Failed in english test 
+APP-0264,CC - 264,J001, ,Rejected, 
+APP-0265,CC - 265,J001, ,No Response, 
+APP-0266,CC - 266,J001, ,No Response, 
+APP-0267,CC - 267,J001, ,No Response, 
+APP-0268,CC - 268,J001, ,No Response, 
+APP-0269,CC - 269,J001, ,No Response, 
+APP-0270,CC - 270,J001, ,Rejected,Not Reachable
+APP-0271,CC - 271,J001, ,No Response, 
+APP-0272,CC - 272,J001, ,No Response, 
+APP-0273,CC - 273,J001, ,No Response, 
+APP-0274,CC - 274,J001, ,No Response, 
+APP-0275,CC - 275,J001, ,No Response, 
+APP-0276,CC - 276,J001, ,No Response, 
+APP-0277,CC - 277,J001, ,Hired, 
+APP-0278,CC - 278,J001, ,Rejected,Not Reachable
+APP-0279,CC - 279,J001, ,No Response, 
+APP-0280,CC - 280,J001, ,Hired, 
+APP-0281,CC - 281,J001, ,No Response, 
+APP-0282,CC - 282,J001, ,No Response, 
+APP-0283,CC - 283,J001, ,No Response, 
+APP-0284,CC - 284,J001, ,No Response, 
+APP-0285,CC - 285,J001, ,No Response, 
+APP-0286,CC - 286,J001, ,No Response, 
+APP-0287,CC - 287,J001, ,No Response, 
+APP-0288,CC - 288,J001, ,Rejected,Didnt Showed up for the interview
+APP-0289,CC - 289,J001, ,No Response, 
+APP-0290,CC - 290,J001, ,No Response, 
+APP-0291,CC - 291,J001, ,Hired but Left,Waiting for english test score
+APP-0292,CC - 292,J001, ,No Response, 
+APP-0293,CC - 293,J001, ,Hired,2nd interview
+APP-0294,CC - 294,J001, ,No Response, 
+APP-0295,CC - 295,J001, ,Hired but Left, 
+APP-0296,CC - 296,J001, ,Rejected, 
+APP-0297,CC - 297,J001, ,No Response, 
+APP-0298,CC - 298,J001, ,Rejected, 
+APP-0299,CC - 299,J001, ,No Response, 
+APP-0300,CC - 300,J001, ,Hired, 
+APP-0301,CC - 301,J001, ,No Response, 
+APP-0302,CC - 302,J001, ,No Response, 
+APP-0303,CC - 303,J001, ,Rejected,She is not intersted in the job role
+APP-0304,CC - 304,J001, ,Rejected,Failed in english test 
+APP-0305,CC - 305,J001, ,Hired but Left, 
+APP-0306,CC - 306,J001, ,Hired, 
+APP-0307,CC - 307,J001, ,Hired, 
+APP-0308,CC - 308,J001, ,Hired, 
+APP-0309,CC - 309,J001,8-May-25,Hired but Left, 
+APP-0310,CC - 310,J001,21-May-25,Hired but Left,Left Training currently due to her mother sickness
+APP-0311,CC - 311,J001,8-May-25,No Response, 
+APP-0312,CC - 312,J001,8-May-25,No Response, 
+APP-0313,CC - 313,J001,8-May-25,Rejected,She was contacted twice and upon her confimation the interviews were scheduled but she didnt show up and havent responded then.
+APP-0314,CC - 314,J001,8-May-25,Rejected, 
+APP-0315,CC - 315,J001,8-May-25,No Response, 
+APP-0316,CC - 316,J001,8-May-25,No Response,"Didnt showed up for the interview, Contacted on phone but got no response"
+APP-0317,CC - 317,J001, ,No Response, 
+APP-0318,CC - 318,J001, ,No Response, 
+APP-0319,CC - 319,J001, ,No Response, 
+APP-0320,CC - 320,J001, ,Rejected, 
+APP-0321,CC - 321,J001,30-May-25,Hired but Left, 
+APP-0322,CC - 322,J001, ,No Response,"Didnt showed up for the interview, Contacted on phone but got no response"
+APP-0323,CC - 323,J001, ,No Response,"Didnt showed up for the interview, Contacted on phone but got no response"
+APP-0324,CC - 324,J001, ,Rejected,Need to shedule a second round of interview for him with the OP Manager
+APP-0325,CC - 325,J001, ,Hired but Left, 
+APP-0326,CC - 326,J001, ,Rejected, 
+APP-0327,CC - 327,J001, ,Hired but Left, 
+APP-0328,CC - 328,J001, ,Hired but Left, 
+APP-0329,CC - 329,J001, ,No Response, 
+APP-0330,CC - 330,J001, ,Rejected, 
+APP-0331,CC - 331,J001, ,Rejected,Will confirm his avaialibility for the interview in a day
+APP-0332,CC - 332,J001, ,No Response,Unreachable
+APP-0333,CC - 333,J001, ,No Response,Unreachable
+APP-0334,CC - 334,J001, ,Rejected,He is not intersted in the job role
+APP-0335,CC - 335,J001, ,No Response, 
+APP-0336,CC - 336,J001, ,Hired but Left, 
+APP-0337,CC - 337,J001, ,No Response, 
+APP-0338,CC - 338,J001, ,No Response,He will confirm his availability for the interview
+APP-0339,CC - 339,J001, ,Hired but Left, 
+APP-0340,CC - 340,J001, ,No Response,Unreachable
+APP-0341,CC - 341,J001, ,No Response,Unreachable
+APP-0342,CC - 342,J001, ,Hired but Left,7/11/2025 (11:30 AM)
+APP-0343,CC - 343,J001, ,No Response,Unreachable
+APP-0344,CC - 344,J001, ,No Response,Unreachable
+APP-0345,CC - 345,J001, ,Rejected,Second round of interview Scheduled on Monday with OP
+APP-0346,CC - 346,J001, ,Rejected,11- Jul-25 (10:30 AM)
+APP-0347,CC - 347,J001, ,No Response, 
+APP-0348,CC - 348,J001, ,No Response, 
+APP-0349,CC - 349,J001, ,No Response, 
+APP-0350,CC - 350,J001, ,No Response, 
+APP-0351,CC - 351,J001, ,No Response,Unreachable
+APP-0352,CC - 352,J001, ,No Response,Unreachable
+APP-0353,CC - 353,J001, ,No Response,Unreachable
+APP-0354,CC - 354,J001, ,No Response, 
+APP-0355,CC - 355,J001, ,No Response, 
+APP-0356,CC - 356,J001, ,Rejected, 
+APP-0357,CC - 357,J001, ,No Response, 
+APP-0358,CC - 358,J001, ,No Response, 
+APP-0359,CC - 359,J001, ,No Response,Unreachable
+APP-0360,CC - 360,J001, ,Hired but Left, 
+APP-0361,CC - 361,J001, ,No Response, 
+APP-0362,CC - 362,J001, ,Hired but Left,11-July-25 Interview date
+APP-0363,CC - 363,J001, ,No Response,Unreachable
+APP-0364,CC - 364,J001, ,Rejected,English test Failed
+APP-0365,CC - 365,J001, ,Hired,11-July-25 Interview date
+APP-0366,CC - 366,J001, ,Hired but Left, 
+APP-0367,CC - 367,J001, ,Hired, 
+APP-0368,CC - 368,J001, ,Hired but Left, 
+APP-0369,CC - 369,J001, ,Hired but Left, 
+APP-0370,CC - 370,J002, ,Hired, 
+APP-0371,CC - 371,J001, ,No Response, 
+APP-0372,CC - 372,J001, ,No Response,10:00 AM Uk time
+APP-0373,CC - 373,J001, ,Rejected, 
+APP-0374,CC - 374,J001, ,Hired but Left, 
+APP-0375,CC - 375,J001, ,No Response, 
+APP-0376,CC - 376,J001, ,Rejected, 
+APP-0377,CC - 377,J001, ,Rejected,She is not intersted in the job role
+APP-0378,CC - 378,J001, ,No Response, 
+APP-0379,CC - 379,J001, ,Rejected,She will confirm later
+APP-0380,CC - 380,J001, ,No Response, 
+APP-0381,CC - 381,J001, ,Rejected,She is not intersted in the job 
+APP-0382,CC - 382,J001, ,No Response, 
+APP-0383,CC - 383,J001, ,No Response, 
+APP-0384,CC - 384,J001, ,Hired but Left,10:15 AM
+APP-0385,CC - 385,J001, ,No Response, 
+APP-0386,CC - 386,J001, ,No Response, 
+APP-0387,CC - 387,J001, ,Hired but Left,10:00 AM uk time
+APP-0388,CC - 388,J001, ,Rejected,10:30 AM Uk time
+APP-0389,CC - 389,J001, ,Rejected, 
+APP-0390,CC - 390,J001, ,Rejected, 
+APP-0391,CC - 391,J001, ,No Response, 
+APP-0392,CC - 392,J001, ,No Response, 
+APP-0393,CC - 393,J001, ,No Response, 
+APP-0394,CC - 394,J001, ,Hired but Left, 
+APP-0395,CC - 395,J001, ,No Response, 
+APP-0396,CC - 396,J001, ,No Response, 
+APP-0397,CC - 397,J001, ,Rejected, 
+APP-0398,CC - 398,J001, ,No Response, 
+APP-0399,CC - 399,J001, ,No Response, 
+APP-0400,CC - 400,J001, ,No Response, 
+APP-0401,CC - 401,J001, ,No Response, 
+APP-0402,CC - 402,J001, ,No Response,Will confirm
+APP-0403,CC - 403,J001, ,No Response, 
+APP-0404,CC - 404,J001, ,No Response, 
+APP-0405,CC - 405,J001, ,No Response, 
+APP-0406,CC - 406,J001, ,No Response, 
+APP-0407,CC - 407,J001,4-Aug-25,Rejected, 
+APP-0408,CC - 408,J001,4-Aug-25,Rejected, 
+APP-0409,CC - 409,J001,4-Aug-25,Hired, 
+APP-0410,CC - 410,J001,4-Aug-25,Rejected, 
+APP-0411,CC - 411,J001,4-Aug-25,Hired, 
+APP-0412,CC - 412,J001,4-Aug-25,Rejected, 
+APP-0413,CC - 413,J001,4-Aug-25,Hired, 
+APP-0414,CC - 414,J001, ,Hired but Left, 
+APP-0415,CC - 415,J001, ,Hired but Left, 
+APP-0416,CC - 416,J001, ,No Response, 
+APP-0417,CC - 417,J001, ,No Response, 
+APP-0418,CC - 418,J001, ,Hired, 
+APP-0419,CC - 419,J001, ,Hired, 
+APP-0420,CC - 420,J001, ,Hired, 
+APP-0421,CC - 421,J001, ,Hired but Left, 
+APP-0422,CC - 422,J001, ,Hired, 
+APP-0423,CC - 423,J001, ,Hired, 
+APP-0424,CC - 424,J001, ,Hired but Left, 
+APP-0425,CC - 425,J001, ,Rejected,Didnt showed up for the interview
+APP-0426,CC - 426,J001, ,Hired but Left, 
+APP-0427,CC - 427,J001, ,Hired, 
+APP-0428,CC - 428,J001, ,Hired, 
+APP-0429,CC - 429,J001, ,No Response, 
+APP-0430,CC - 430,J001, ,Hired,Will confirm for Monday 22 Sep
+APP-0431,CC - 431,J001, ,Hired,19 Sep - 4PM
+APP-0432,CC - 432,J001, ,Hired, 
+APP-0433,CC - 433,J001, ,No Response, 
+APP-0434,CC - 434,J001, ,Hired, 
+APP-0435,CC - 435,J001, ,No Response, 
+APP-0436,CC - 436,J001, ,Hired,Tomorow 5 Pm
+APP-0437,CC - 437,J001, ,Hired, 
+APP-0438,CC - 438,J001, ,No Response, 
+APP-0439,CC - 439,J001, ,No Response, 
+APP-0440,CC - 440,J001, ,No Response, 
+APP-0441,CC - 441,J001, ,No Response, 
+APP-0442,CC - 442,J001, ,No Response, 
+APP-0443,CC - 443,J001, ,No Response, 
+APP-0444,CC - 444,J001, ,No Response, 
+APP-0445,CC - 445,J001, ,No Response, 
+APP-0446,CC - 446,J001, ,No Response, 
+APP-0447,CC - 447,J001, ,No Response, 
+APP-0448,CC - 448,J001, ,No Response, 
+APP-0449,CC - 449,J001, ,No Response, 
+APP-0450,CC - 450,J001, ,No Response, 
+APP-0451,CC - 451,J001, ,No Response, 
+APP-0452,CC - 452,J001, ,Rejected, 
+APP-0453,CC - 453,J001, ,Rejected, 
+APP-0454,CC - 454,J001, ,Hired but Left, 
+APP-0455,CC - 455,J001, ,Hired but Left, 
+APP-0456,CC - 456,J001, ,Hired, 
+APP-0457,CC - 457,J001, ,No Response, 
+APP-0458,CC - 458,J001, ,Rejected, 
+APP-0459,CC - 459,J001, ,No Response, 
+APP-0460,CC - 460,J001, ,No Response, 
+APP-0461,CC - 461,J001, ,No Response, 
+APP-0462,CC - 462,J001, ,Hired, 
+APP-0463,CC - 463,J001, ,No Response, 
+APP-0464,CC - 464,J001, ,Rejected, 
+APP-0465,CC - 465,J001, ,Rejected, 
+APP-0466,CC - 466,J001, ,Pending, 
+APP-0467,CC - 467,J001, ,Hired, 
+APP-0468,CC - 468,J001, ,Hired, 
+APP-0469,CC - 469,J001, ,Rejected,She is doing MS not intersted in the job role
+APP-0470,CC - 470,J001, ,No Response, 
+APP-0471,CC - 471,J001, ,Hired, 
+APP-0472,CC - 472,J001, ,Hired, 
+APP-0473,CC - 473,J001, ,Hired, 
+APP-0474,CC - 474,J001, ,Hired but Left, 
+APP-0475,CC - 475,J001, ,Hired but Left, 
+APP-0476,CC - 476,J001, ,Rejected, 
+APP-0477,CC - 477,J001, ,Hired, 
+APP-0478,CC - 478,J001, ,Hired, 
+APP-0479,CC - 479,J001, ,Hired, 
+APP-0480,CC - 480,J001, ,Pending, 
+APP-0481,CC - 481,J001, ,Hired, 
+APP-0482,CC - 482,J001, ,No Response, 
+APP-0483,CC - 483,J001, ,Hired, 
+APP-0484,CC - 484,J001, ,No Response, 
+APP-0485,CC - 485,J001, ,Hired but Left, 
+APP-0486,CC - 486,J001, ,Hired but Left, 
+APP-0487,CC - 487,J001, ,Rejected, 
+APP-0488,CC - 488,J001, ,Pending, 
+APP-0489,CC - 489,J001, ,Pending, 
+APP-0490,CC - 490,J001, ,Pending, 
+APP-0491,CC - 491,J001, ,Pending, 
+APP-0492,CC - 492,J001, ,Pending, 
+APP-0493,CC - 493,J001, ,Pending, 
+APP-0494,CC - 494,J001, ,Pending, 
+APP-0495,CC - 495,J001, ,Pending, 
+APP-0496,CC - 496,J001, ,Hired, 
+APP-0497,CC - 497,J001, ,Hired, 
+APP-0498,CC - 498,J001, ,Hired, 
+APP-0499,CC - 499,J001, ,No Response, 
+APP-0500,CC - 500,J001, ,No Response, 
+APP-0501,CC - 501,J001, ,No Response, 
+APP-0502,CC - 502,J001, ,No Response, 
+APP-0503,CC - 503,J001, ,No Response, 
+APP-0504,CC - 504,J001, ,No Response, 
+APP-0505,CC - 505,J001, ,No Response, 
+APP-0506,CC - 506,J001, ,No Response, 
+APP-0507,CC - 507,J001, ,No Response, 
+APP-0508,CC - 508,J001, ,No Response, 
+APP-0509,CC - 509,J001, ,No Response, 
+APP-0510,CC - 510,J001, ,No Response, 
+APP-0511,CC - 511,J001, ,No Response, 
+APP-0512,CC - 512,J001, ,No Response, 
+APP-0513,CC - 513,J001, ,No Response, 
+APP-0514,CC - 514,J001, ,No Response, 
+APP-0515,CC - 515,J001, ,No Response, 
+APP-0516,CC - 516,J001, ,No Response, 
+APP-0517,CC - 517,J001, ,No Response, 
+APP-0518,CC - 518,J001, ,Hired, 
+APP-0519,CC - 519,J001, ,Rejected,Rejected after two rounds due to misalignment in attitude and salary expectations.
+APP-0520,CC - 520,J001, ,, 
+APP-0521,CC - 521,J001, ,No Response,Told us will get back to us. Didnt get any response then
+APP-0522,CC - 522,J001, ,Rejected,Not instersted in the job role
+APP-0523,CC - 523,J001, ,Amber,Will Confirm
+APP-0524,CC - 524,J001, ,Rejected,Not intersted in the job role
+APP-0525,CC - 525,J001, ,No Response, 
+APP-0526,CC - 526,J001, ,No Response, 
+APP-0527,CC - 527,J001, ,No Response, 
+APP-0528,CC - 528,J001, ,Rejected,Wrong No
+APP-0529,CC - 529,J001, ,No Response,Not Reachable
+APP-0530,CC - 530,J001, ,No Response, 
+APP-0531,CC - 531,J001, ,Not Reachable,Not Reachable
+APP-0532,CC - 532,J001, ,No Response, 
+APP-0533,CC - 533,J001, ,Rejected,student
+APP-0534,CC - 534,J001, ,No Response, 
+APP-0535,CC - 535,J001, ,No Response, 
+APP-0536,CC - 536,J001, ,Rejected,Not Intersted in the job role
+APP-0537,CC - 537,J001, ,Rejected,Not Intersted in the job role
+APP-0538,CC - 538,J001, ,No Response, 
+APP-0539,CC - 539,J001, ,No Response, 
+APP-0540,CC - 540,J001, ,No Response, 
+APP-0541,CC - 541,J001, ,Hired but Left,Candidate withdrew due to an unresolved resignation issue with their former organization.
+APP-0542,CC - 542,J001, ,Rejected,Not interested in the job role
+APP-0543,CC - 543,J001, ,No Response, 
+APP-0544,CC - 544,J001, ,No Response, 
+APP-0545,CC - 545,J001, ,Rejected, 
+APP-0546,CC - 546,J001, ,No Response, 
+APP-0547,CC - 547,J001, ,Amber,She said she will arrang  laptop for staturday for the interview
+APP-0548,CC - 548,J001, ,No Response, 
+APP-0549,CC - 549,J001, ,No Response, 
+APP-0550,CC - 550,J001, ,No Response, 
+APP-0551,CC - 551,J001, ,Hired, 
+APP-0552,CC - 552,J001, ,Not Reachable, 
+APP-0553,CC - 553,J001, ,Rejected,Avaialble on saturday
+APP-0554,CC - 554,J001, ,Rejected, 
+APP-0555,CC - 555,J001, ,No Response, 
+APP-0556,CC - 556,J001, ,No Response, 
+APP-0557,CC - 557,J001, ,No Response, 
+APP-0558,CC - 558,J001, ,Hired, 
+APP-0559,CC - 559,J001, ,No Response, 
+APP-0560,CC - 560,J001, ,No Response, 
+APP-0561,CC - 561,J001, ,Hired, 
+APP-0562,CC - 562,J001, ,Rejected,She wants to work on part time basis
+APP-0563,CC - 563,J001, ,Amber,Interview Scheduled for 4 Dec 2025 @ 5:15 PM
+APP-0564,CC - 564,J001, ,Rejected,Not intersted in the job role
+APP-0565,CC - 565,J001, ,Amber,Interview Scheduled for 4 Dec 2025 @ 5:30 PM
+APP-0566,CC - 566,J001, ,Hired but Left,Shortlisted
+APP-0567,CC - 567,J001, ,Hired,Shortlisted
+APP-0568,CC - 568,J001, ,Hired, 
+APP-0569,CC - 569,J001, ,Rejected,wrong no
+APP-0570,CC - 570,J001, ,Hired, 
+APP-0571,CC - 571,J001, ,Hired but Left,Shortlisted
+APP-0572,CC - 572,J001, ,No Response,No Response
+APP-0573,CC - 573,J001, ,Hired,Shortlisted
+APP-0574,CC - 574,J001, ,No Response, 
+APP-0575,CC - 575,J001, ,Hired,Shortlisted
+APP-0576,CC - 576,J001, ,Rejected, 
+APP-0577,CC - 577,J001, ,Hired,Shortlisted
+APP-0578,CC - 578,J001, ,Hired,Shortlisted
+APP-0579,CC - 579,J001, ,Amber,She is busy currenlty 
+APP-0580,CC - 580,J001, ,Hired,Shortlisted
+APP-0581,CC - 581,J001, ,No Response, 
+APP-0582,CC - 582,J001, ,Hired,Shortlisted
+APP-0583,CC - 583,J001, ,Hired,Shortlisted
+APP-0584,CC - 584,J001, ,Rejected,Invalid number on CV
+APP-0585,CC - 585,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0586,CC - 586,J001, ,Rejected,Didnt showed up for Final Interview.
+APP-0587,CC - 587,J001, ,No Response,Still no response
+APP-0588,CC - 588,J001, ,Hired,I have informed the candidate and she is available for an interview on friday.
+APP-0589,CC - 589,J001, ,Rejected,Powered off
+APP-0590,CC - 590,J001, ,Hired,I have informed the candidate and he is available for an interview.
+APP-0591,CC - 591,J001, ,Rejected,After knowing the salary she said i will think im not interested right now.
+APP-0592,CC - 592,J001, ,Rejected,I have informed the candidate and he is available for an interview.
+APP-0593,CC - 593,J001, ,Hired,Interview scheduled for Friday.
+APP-0594,CC - 594,J001, ,Hired,I have informed the candidate and she is available for an interview. System sent for repairing. Communication skills are low but can be given a second change.
+APP-0595,CC - 595,J001, ,Rejected,I have informed the candidate and she is available for an interview.
+APP-0596,CC - 596,J001, ,Amber,I have informed the candidate and she is available for an interview. But will join after 15-Dec going out of station.
+APP-0597,CC - 597,J001, ,Rejected,Will think about timing as she had 3 kids and little one is 1.5months old. Will confirm tomorrow.
+APP-0598,CC - 598,J001, ,Rejected,Need one day to think. As she is working /classes so she will confirm me the status tomorrow.
+APP-0599,CC - 599,J001, ,Rejected,Didn't shown up for final interview.
+APP-0600,CC - 600,J001, ,Rejected,Didn't shown up for final interview.
+APP-0601,CC - 601,J001, ,Rejected,I have informed the candidate and she is available for an interview.
+APP-0602,CC - 602,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0603,CC - 603,J001, ,Rejected,Invalid number on CV
+APP-0604,CC - 604,J001, ,Amber,"She expressed interest in joining but currently lacks a laptop, stating she would purchase one if selected. However, she has not responded further, indicating a tentative future perspective."
+APP-0605,CC - 605,J001, ,Hired,Good Candidate. I have informed the candidate and she is available for an interview.
+APP-0606,CC - 606,J001, ,Amber,Good Candidate. I have informed the candidate and she is available for an interview.
+APP-0607,CC - 607,J001, ,No Response,Powered off 2- Still no response
+APP-0608,CC - 608,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0609,CC - 609,J001, ,Amber,"Student, Not fit for the job role. After completion of Degree"
+APP-0610,CC - 610,J001, ,Rejected,Communication skill was very weak. Beside this she was not able to manage time.
+APP-0611,CC - 611,J001, ,Rejected,She is already working and not interested in our offer.
+APP-0612,CC - 612,J001, ,No Response, 
+APP-0613,CC - 613,J001, ,No Response, 
+APP-0614,CC - 614,J001, ,Rejected,Weak Communication skills. Won't be able to manage time. Unwillingness to give time and energy to a job.
+APP-0615,CC - 615,J001, ,Amber,"She is already employed and was unavailable due to work commitments, though she remains open to future opportunities."
+APP-0616,CC - 616,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0617,CC - 617,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0618,CC - 618,J001, ,Rejected,Poor communication was not able to understand and already in a contract with a company for 3months.
+APP-0619,CC - 619,J001, ,Rejected,Powered off
+APP-0620,CC - 620,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0621,CC - 621,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0622,CC - 622,J001, ,Rejected,Poor communication skills. Seems to be interested in remote job but communication was very weak.
+APP-0623,CC - 623,J001, ,Amber,"She is currently serving as a Management Trainee Officer and will be available after three months, specifically in February."
+APP-0624,CC - 624,J001, ,Rejected,He was low with weak communication skills but he mentioned that he came back from night shift. I have informed the candidate and she is available for an interview.
+APP-0625,CC - 625,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0626,CC - 626,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0627,CC - 627,J001, ,Amber, 
+APP-0628,CC - 628,J001, ,Rejected,Poor communication skills was not even able to tell about herself. no experience.
+APP-0629,CC - 629,J001, ,Rejected,Didn't shown up for final interview.
+APP-0630,CC - 630,J001, ,Amber, 
+APP-0631,CC - 631,J001, ,Amber,I have informed the candidate and she is available for an interview. She was little hasitant while speaking english but CV was good.
+APP-0632,CC - 632,J001, ,Rejected,Not responding
+APP-0633,CC - 633,J001, ,Hired,I have informed the candidate and she is available for an interview.Shortlisted.
+APP-0634,CC - 634,J001, ,Amber, 
+APP-0635,CC - 635,J001, ,Rejected,She hung up the call when i told her im from HR dept. I called her again but she didn't receive my call.
+APP-0636,CC - 636,J001, ,Amber, 
+APP-0637,CC - 637,J001, ,Rejected,Didn't shown up for final interview.
+APP-0638,CC - 638,J001, ,Rejected,I have informed the candidate and she is available for an interview. She said im professional coder so 50k is less.
+APP-0639,CC - 639,J001, ,Amber, 
+APP-0640,CC - 640,J001, ,Hired,I have informed the candidate and she is available for an interview. Don't have laptop but will buy if get selected.
+APP-0641,CC - 641,J001, ,Rejected,Not Interested. Already working. Won't be able to manage time.
+APP-0642,CC - 642,J001, ,Rejected,I have informed the candidate and she is available for an interview.
+APP-0643,CC - 643,J001, ,Rejected,I have informed the candidate and she is available for an interview. Don't have laptop but will arrange if get selected.Didn't shown up for final interview.
+APP-0644,CC - 644,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0645,CC - 645,J001, ,Rejected, 
+APP-0646,CC - 646,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0647,CC - 647,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0648,CC - 648,J001, ,Rejected,I have informed the candidate and she is available for an interview.
+APP-0649,CC - 649,J001, ,Rejected,Didn't shown up for final interview
+APP-0650,CC - 650,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0651,CC - 651,J001, ,Rejected,Invalid number on CV
+APP-0652,CC - 652,J001, ,Rejected,Poor Communication skills as he was Biology teacher. Working as a teacher was even asking for flexible time.
+APP-0653,CC - 653,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0654,CC - 654,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0655,CC - 655,J001, ,Hired,I have informed the candidate and she is available for an interview. Will repair laptop
+APP-0656,CC - 656,J001, ,Rejected,I have informed the candidate and she is available for an interview.  Not available for the job role
+APP-0657,CC - 657,J001, ,Rejected,Not responding
+APP-0658,CC - 658,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0659,CC - 659,J001, ,Hired,Good Candidate.I have informed the candidate and she is available for an interview.
+APP-0660,CC - 660,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0661,CC - 661,J001, ,Amber, 
+APP-0662,CC - 662,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0663,CC - 663,J001, ,Hired,I have informed the candidate and she is available for an interview. Shorlisted.
+APP-0664,CC - 664,J001, ,Hired,Good Candidate.I have informed the candidate and she is available for an interview.
+APP-0665,CC - 665,J001, ,Rejected,Didn't shown up for final interview.
+APP-0666,CC - 666,J001, ,Amber, 
+APP-0667,CC - 667,J001, ,Rejected, 
+APP-0668,CC - 668,J001, ,Hired,I have informed the candidate and she is available for an interview.
+APP-0669,CC - 669,J001, ,Hired, 
+APP-0670,CC - 670,J001, ,Hired but Left,Left training due to sudden family Relocation.
+APP-0671,CC - 671,J001, ,Hired but Left,Dropped out form the training as per the trainers Feedback.
+APP-0672,CC - 672,J001, ,Hired, 
+APP-0673,CC - 673,J001, ,Hired, 
+APP-0674,CC - 674,J001, ,Hired, 
+APP-0675,CC - 675,J001, ,Hired, 
+APP-0676,CC - 676,J001, ,Hired, 
+APP-0677,CC - 677,J001, ,Hired, 
+APP-0678,CC - 678,J001, ,Hired, 
+APP-0679,CC - 679,J001, ,Hired, 
+APP-0680,CC - 680,J001, ,Hired, 
+APP-0681,CC - 681,J001, ,Hired, 
+APP-0682,CC - 682,J001, ,Hired, 
+APP-0683,CC - 683,J001, ,Hired, 
+APP-0684,CC - 684,J001, ,Rejected, 
+APP-0685,CC - 685,J001, ,Hired, 
+APP-0686,CC - 686,J001, ,Hired but Left,"Left training without any prior intimation, didnt get back nor contacted again."
+APP-0687,CC - 687,J001, ,Hired, 
+APP-0688,CC - 688,J001, ,Hired, 
+APP-0689,CC - 689,J001, ,Hired, 
+APP-0690,CC - 690,J001, ,Hired but Left,Resinged due to workload issues.
+APP-0691,CC - 691,J001, ,Hired, 
+APP-0692,CC - 692,J001, ,Hired, 
+APP-0693,CC - 693,J001, ,Hired, 
+APP-0694,CC - 694,J001, ,Hired, 
+APP-0695,CC - 695,J001, ,Hired, 
+APP-0696,CC - 696,J001, ,Hired, 
+APP-0697,CC - 697,J001, ,Hired, 
+APP-0698,CC - 698,J001, ,Hired, 
+APP-0699,CC - 699,J001, ,Hired but Left,Terminated due to her Helath Concerns
+APP-0700,CC - 700,J001, ,Hired, 
+APP-0701,CC - 701,J001, ,Hired, 
+APP-0702,CC - 702,J001, ,Hired but Left,Left Due to Salary concerns
+APP-0703,CC - 703,J001, ,Hired but Left,Left Due to Better Opportunities
+APP-0704,CC - 704,J001, ,Hired but Left,Left Due to Better Opportunities
+APP-0705,CC - 705,J001, ,Hired, 
+APP-0706,CC - 706,J001, ,Hired, 
+APP-0707,CC - 707,J001, ,Hired, 
+APP-0708,CC - 708,J001, ,Hired,Terminted due to attitude problems.
+APP-0709,CC - 709,J001, ,Hired but Left,Dropped out from the training as per the trainers Feedback.
+APP-0710,CC - 710,J001, ,Rejected, 
+APP-0711,CC - 711,J001, ,Rejected, 
+APP-0712,CC - 712,J001, ,Rejected, 
+APP-0713,CC - 713,J001, ,Hired, 
+APP-0714,CC - 714,J001,,Rejected,Allready working
+APP-0715,CC - 715,J001,,Rejected,No Response
+APP-0716,CC - 716,J001,,Rejected,Not Interested not looking for job
+APP-0717,CC - 717,J001,,nan,I have informed the candidate and she is available for an interview.
+APP-0718,CC - 718,J001,,nan,No Response Upon Contacting
+APP-0719,CC - 719,J001,,nan,No Response Upon Contacting
+APP-0720,CC - 720,J001,,nan,No Response Upon Contacting
+APP-0721,CC - 721,J001,,Rejected,Weak Communication Skills. She said i can't speak english
+APP-0722,CC - 722,J001,,nan,Picked up the call and hanged up
+APP-0723,CC - 723,J001,,Rejected,Weak comunication skills and already working
+APP-0724,CC - 724,J001,,nan,Not Interested not looking for job
+APP-0725,CC - 725,J001,,nan,No Response Upon Contacting
+APP-0726,CC - 726,J001,,nan,I have informed the candidate and she is available for an interview.
+APP-0727,CC - 727,J001,,nan,I have informed the candidate and he is available for an interview.
+APP-0728,CC - 728,J001,,nan,Not Interested not looking for job
+APP-0729,CC - 729,J001,,nan,Not Interested not looking for job
+APP-0730,CC - 730,J001,,nan,I have informed the candidate and she is available for an interview.
+APP-0731,CC - 731,J001,,Rejected,Interested in part time work
+APP-0732,CC - 732,J001,,nan,Call Back was busy - Pathan 
+APP-0733,CC - 733,J001,,nan,Didnt appear for the interview
+APP-0734,CC - 734,J001,,nan,
+APP-0735,CC - 735,J001,,nan,"Declined the interview call, Saying she is not intersted in the company pacakges"
+APP-0736,CC - 736,J001,,nan,Interview Conducted. English Test mail send. The candidate is planning to opt for this job but she has plan to do a physical job in her filed of cardiology
+APP-0737,CC - 737,J001,,nan,
+APP-0738,CC - 738,J001,,nan,
+APP-0739,CC - 739,J001,,Hired,Interview Conducted. English Test Passed
+APP-0740,CC - 740,J001,,Hired,Interview Arranged
+APP-0741,CC - 741,J001,,Hired,"The interview was attempted, but due to recurring technical issues with the candidates laptop, it could not be completed. 2nd interview arranged"
+APP-0742,CC - 742,J001,,nan,Didnt appear for the interview
+APP-0743,CC - 743,J001,,Rejected,The candidate is a student wanted to work on part time basis
+APP-0744,CC - 744,J001,,nan,Didnt appear for the interview
+APP-0745,CC - 745,J001,,nan,The candidate displayed minimal engagement and limited interest during the screening call. Please proceed by sending the English test for initial evaluation.
+APP-0746,CC - 746,J001,,nan,The candidate demonstrates very low English proficiency. An English test has been emailed to her for further assessment.
+APP-0747,CC - 747,J001,,nan,The candidate wants to appear for an IT support role if there is any suitable vacancy
+APP-0748,CC - 748,J001,,nan,No response upon contacting so Far
+APP-0749,CC - 749,J001,,nan,
+APP-0750,CC - 750,J001,,nan,The candidate demonstrates very low English proficiency. An English test has been emailed to her for further assessment.
+APP-0751,CC - 751,J001,,nan,The candidate demonstrates limited English proficiency. Please refer to the attached English assessment results for detailed scoring and evaluation.
+APP-0752,CC - 752,J001,,nan,"She is a student recenlty finsihed her degree upon confirming, interview to be schedule."
+APP-0753,CC - 753,J001,,nan,"The candidate demonstrates limited familiarity with medical terminology and requires development in reading comprehension of medical correspondence. She would benefit from structured training and coaching to build foundational competency for the role. Additionally, she has expressed an interest in pursuing a different career path after completing her Master's degree."
+APP-0754,CC - 754,J001,,Rejected,"The candidate is currently enrolled in a Bachelor's program in Criminology, which impacts his availability. During the screening call, he indicated that he would require time off during standard working hours on one or two days per week to attend university classes."
+APP-0755,CC - 755,J001,,Hired,"The candidate demonstrated interest and enthusiasm for the role, having taken initiative to prepare. However, some gaps were noted in reading comprehension skills. The English test has been sent to the candidate, and the results are attached for review."
+APP-0756,CC - 756,J001,,Hired,The candidate demonstrated a good understanding of the system. The English test has been emailed to them for further evaluation.
+APP-0757,CC - 757,J001,,Hired,The candidate demonstrated a solid understanding of clinical coding. The English test has been cleared
+APP-0758,CC - 758,J001,,Rejected,Weak Comunication Skills. 
+APP-0759,CC - 759,J001,,nan,
+APP-0760,CC - 760,J001,,Rejected,Got onsite job- Not interested
+APP-0761,CC - 761,J001, ,Rejected,Weak Communication Skill. Line was breaking up call back
+APP-0762,CC - 762,J001,,nan,No Response - Tried 2 times
+APP-0763,CC - 763,J001,,Rejected,
+APP-0764,CC - 764,J001,,Rejected,Not able to introduce himself
+APP-0765,CC - 765,J001,,Rejected,She said i don't have good english speaking skills. She was not able to introduce herself in english
+APP-0766,CC - 766,J001,,Rejected,She said i am not looking for a job
+APP-0767,CC - 767,J001,,nan,No Response
+APP-0768,CC - 768,J001,,nan,
+APP-0769,CC - 769,J001,,nan,No Response
+APP-0770,CC - 770,J001,,Rejected,Interview Schedule.
+APP-0771,CC - 771,J001,,Rejected,Already working don't want to quit current job.
+APP-0772,CC - 772,J001,,nan,
+APP-0773,CC - 773,J001,,nan,Powered off
+APP-0774,CC - 774,J001,,nan,Powered off
+APP-0775,CC - 775,J001,,nan,Interview Schedule.
+APP-0776,CC - 776,J001,,nan,Interview Schedule.
+APP-0777,CC - 777,J001,,nan,No Response
+APP-0778,CC - 778,J001,,nan,2-4 hrs visit university. Timings 2-4 0n thursday. Already working
+APP-0779,CC - 779,J001,,Rejected,Already working not interested.
+APP-0780,CC - 780,J001,,nan,
+APP-0781,CC - 781,J001,,Rejected,Not Aavailable already working.- Uniserity want to work with us as well.
+APP-0782,CC - 782,J001,,nan,didnt showed up for the interview
+APP-0783,CC - 783,J001,,Shortlisted,
+APP-0784,CC - 784,J001,,nan,Interview Arranged in 3rd  attempt
+APP-0785,CC - 785,J001,,Hired,Interview Arranged in 3rd  attempt
+APP-0786,CC - 786,J001,,nan,
+APP-0787,CC - 787,J001,,nan,
+APP-0788,CC - 788,J001,,nan,No Response
+APP-0789,CC - 789,J001,,nan,
+APP-0790,CC - 790,J001,,Rejected,Weak Communication skill - Not able to talk in english
+APP-0791,CC - 791,J001,,Rejected,Was not able to understand and hanged up
+APP-0792,CC - 792,J001,,nan,
+APP-0793,CC - 793,J001,,nan,No Response
+APP-0794,CC - 794,J001,,nan,
+APP-0795,CC - 795,J001,,Rejected,Already working not interested
+APP-0796,CC - 796,J001,,nan,
+APP-0797,CC - 797,J001,,Rejected,Not interested in remote job looking for onsite job.
+APP-0798,CC - 798,J001,,nan,
+APP-0799,CC - 799,J001,,nan,No Response
+APP-0800,CC - 800,J001,,nan,
+APP-0801,CC - 801,J001,,Rejected,Already working not interested
+APP-0802,CC - 802,J001,,Rejected,I haven't applied for a job
+APP-0803,CC - 803,J001,,Rejected,Remote job - Hanged up
+APP-0804,CC - 804,J001,,nan,No Response
+APP-0805,CC - 805,J001,,nan,
+APP-0806,CC - 806,J001,,nan,No Response
+APP-0807,CC - 807,J001,,nan,Call back arranged
+APP-0808,CC - 808,J001,,Rejected,Looking for position in Procurement Department
+APP-0809,CC - 809,J001,,nan,No Response
+APP-0810,CC - 810,J001,,nan,Interview arranged
+APP-0811,CC - 811,J001,,Rejected,Weak Communication - Already working 
+APP-0812,CC - 812,J001,,nan,No Response
+APP-0813,CC - 813,J001,,Rejected,Was not able to speak in english. Weak communication skills
+APP-0814,CC - 814,J001,,nan,No Response
+APP-0815,CC - 815,J001,,nan,
+APP-0816,CC - 816,J001,,Rejected,He said its too late i got a job was not able to talk in english.
+APP-0817,CC - 817,J001,,Rejected,Got new job not interested now.
+APP-0818,CC - 818,J001,,Rejected,She said i don't know how to speak in english
+APP-0819,CC - 819,J001,,nan,Powered Off
+APP-0820,CC - 820,J001,,nan,Will talk later im busy today
+APP-0821,CC - 821,J001,,nan,
+APP-0822,CC - 822,J001,,nan,No Response
+APP-0823,CC - 823,J001,,nan,Seems like she is not able to understand english (Pathan) she hung up and some male called me inquiring about company and all.
+APP-0824,CC - 824,J001,,nan,No Response
+APP-0825,CC - 825,J001,,Rejected,Was not able to understand. Weak Communication skills.
+APP-0826,CC - 826,J001,,Rejected,I am getting paid more than you guys not interested.
+APP-0827,CC - 827,J001,,nan,No Response
+APP-0828,CC - 828,J001,,nan,Powered Off
+APP-0829,CC - 829,J001,,nan,Powered Off
+APP-0830,CC - 830,J001,,nan,No Response
+APP-0831,CC - 831,J001,,nan,I am busy i will call myself.
+APP-0832,CC - 832,J001,,nan,No Response
+APP-0833,CC - 833,J001,,nan,Picked up a call and hanged up.
+APP-0834,CC - 834,J001,,Rejected,Student. 
+APP-0835,CC - 835,J001,,Rejected,Already working.
+APP-0836,CC - 836,J001,,Rejected,Already working.
+APP-0837,CC - 837,J001,,nan,Weak communication skills want me to call her back.
+APP-0838,CC - 838,J001,,Rejected,Already working
+APP-0839,CC - 839,J001,,nan,No Response - Powered Off
+APP-0840,CC - 840,J001,,nan,No Response
+APP-0841,CC - 841,J001,,nan,No Response
+APP-0842,CC - 842,J001,,nan,Powered off
+APP-0843,CC - 843,J001,,Rejected,Already working lookong for better oppunity but not happy with our pay scale.
+APP-0844,CC - 844,J001,,nan,
+APP-0845,CC - 845,J001,,Rejected,Not Interested.
+APP-0846,CC - 846,J001,,Rejected,Was looking for a job but i got it.So Already working.
+APP-0847,CC - 847,J001,,Rejected,Not interested in this job.
+APP-0848,CC - 848,J001,,Rejected,She hanged up while talking.
+APP-0849,CC - 849,J001,,nan,Powered off - Still powered off
+APP-0850,CC - 850,J001,,nan,Blocked number
+APP-0851,CC - 851,J001,,nan,Student
+APP-0852,CC - 852,J001,,nan,
+APP-0853,CC - 853,J001,,nan,Interview arranged
+APP-0854,CC - 854,J001,,nan,Interview arranged.
+APP-0855,CC - 855,J001,,nan,Interview arranged
+APP-0856,CC - 856,J001,,Hired,No Answer/ Interview arranged 2nd attempt
+APP-0857,CC - 857,J001,,nan,Contact details not available. No Answer
+APP-0858,CC - 858,J001,,nan,Number busy tried 2 times./ SR
+APP-0859,CC - 859,J001,,nan,Contact details not available. She hang up while i was talking
+APP-0860,CC - 860,J001,,Rejected,Student
+APP-0861,CC - 861,J001,,Rejected,Student
+APP-0862,CC - 862,J001,,nan,Interview arranged
+APP-0863,CC - 863,J001,,nan,Powered off
+APP-0864,CC - 864,J001,,nan,Powered off
+APP-0865,CC - 865,J001,,nan,Number not reachable. / No response
+APP-0866,CC - 866,J001,,nan,Interview araranged
+APP-0867,CC - 867,J001,,Rejected,8:30 to 2pm. Working in hospital He said i will manage.
+APP-0868,CC - 868,J001,,nan,Not Reachable./ Interview Arranged
+APP-0869,CC - 869,J001,,nan,Not Reachable./ Interview Arranged
+APP-0870,CC - 870,J001,,nan,Not Reachable - Not reachable 
+APP-0871,CC - 871,J001,,nan,Interview araranged
+APP-0872,CC - 872,J001,,nan,Interview araranged
+APP-0873,CC - 873,J001,,nan,Interview arranged
+APP-0874,CC - 874,J001,,nan,Interview arranged.
+APP-0875,CC - 875,J001,,nan,No Response
+APP-0876,CC - 876,J001,,nan,She said she will call me later
+APP-0877,CC - 877,J001,,nan,Interview arranged.
+APP-0878,CC - 878,J001,,nan,Interview arranged.
+APP-0879,CC - 879,J001,,Rejected,Fake cv he said im not looking for a job. I am serving in miletry and was not able to talk in english
+APP-0880,CC - 880,J001,,nan,No Response
+APP-0881,CC - 881,J001,,nan,No Response
+APP-0882,CC - 882,J001,,Amber,Declined the call. 2nd try I will call you back. 3rd call she is student uni timing till 2pm
+APP-0883,CC - 883,J001,,nan,
+APP-0884,CC - 884,J001,,nan,Interview Arranged
+APP-0885,CC - 885,J001,,nan,Interview Arranged
+APP-0886,CC - 886,J001,,nan,Interview arranged
+APP-0887,CC - 887,J001, ,Rejected,I have informed the candidate and he is available for an interview.
+APP-0888,CC - 888,J001, ,nan,interview arranged
+APP-0889,CC - 889,J001, ,Hired,Shortlisted
+APP-0890,CC - 890,J001,,nan,interview arranged
+APP-0891,CC - 891,J001,,nan,interview arranged
+APP-0892,CC - 892,J001,,nan,interview arranged
+APP-0893,CC - 893,J001,,nan,interview arranged
+APP-0894,CC - 894,J001,,nan,interview arranged
+APP-0895,CC - 895,J001,,nan,No Response
+APP-0896,CC - 896,J001, ,Rejected,I have informed the candidate and she is available for an interview.
+APP-0897,CC - 897,J001,,nan,Interview Arranged
+APP-0898,CC - 898,J001,,nan,Interview Arranged
+APP-0899,CC - 899,J001,,nan,Hanged up and was declining my call when i tried again
+APP-0900,CC - 900,J001,,nan,Interview Arranged
+APP-0901,CC - 901,J001,,nan,Interview Arranged
+APP-0902,CC - 902,J001,,nan,Interview Arranged
+APP-0903,CC - 903,J001,,nan,No Answer
+APP-0904,CC - 904,J001,,Rejected,Weak Communication skill 
+APP-0905,CC - 905,J001,,nan,Interview Arranged
+APP-0906,CC - 906,J001,,nan,No Answer
+APP-0907,CC - 907,J001,,Rejected,Urdu only
+APP-0908,CC - 908,J001,,nan,She is not available talked with her sister
+APP-0909,CC - 909,J001,,nan,
+APP-0910,CC - 910,J001,,nan,Interview Arranged
+APP-0911,CC - 911,J001,,nan,I am busy right now
+APP-0912,CC - 912,J001,,nan,Not responding
+APP-0913,CC - 913,J001,,nan,Interview Arranged
+APP-0914,CC - 914,J001,,nan,Disconnected number
+APP-0915,CC - 915,J001,,nan,Not looking for a job
+APP-0916,CC - 916,J001,,nan,No answer
+APP-0917,CC - 917,J001,,nan,No answer
+APP-0918,CC - 918,J001,,nan,No answer
+APP-0919,CC - 919,J001,,nan,Interview Arranged
+APP-0920,CC - 920,J001,,nan,Call back later
+APP-0921,CC - 921,J001,,nan,Interview Arranged
+APP-0922,CC - 922,J001,,nan,Interview Arranged
+APP-0923,CC - 923,J001,,nan,No answer
+APP-0924,CC - 924,J001,,nan,Powered off
+APP-0925,CC - 925,J001,,Rejected,Want to work part time
+APP-0926,CC - 926,J001,,Rejected,Already occupied in lab till 4 want to work part time
+APP-0927,CC - 927,J001,,nan,She was out somewhere
+APP-0928,CC - 928,J001,,Amber,Dont have laptop
+APP-0929,CC - 929,J001,,nan,No Answer
+APP-0930,CC - 930,J001,,nan,No Answer
+APP-0931,CC - 931,J001,,nan,
+APP-0932,CC - 932,J001,,nan,
+APP-0933,CC - 933,J001,,nan,
+APP-0934,CC - 934,J001,,nan,
+APP-0935,CC - 935,J001,,nan,
+APP-0936,CC - 936,J001,,nan,
+APP-0937,CC - 937,J001,,nan,
+APP-0938,CC - 938,J001,,nan,
+APP-0939,CC - 939,J001,,nan,
+APP-0940,CC - 940,J001,,nan,
+APP-0941,CC - 941,J001,,nan,
+APP-0942,CC - 942,J001,,nan,
+APP-0943,CC - 943,J001,,nan,
+APP-0944,CC - 944,J001,,nan,
+APP-0945,CC - 945,J001,,nan,
+APP-0946,CC - 946,J001,,nan,
+APP-0947,CC - 947,J001,,nan,
+APP-0948,CC - 948,J001,,nan,
+APP-0949,CC - 949,J001,,nan,
+APP-0950,CC - 950,J001,,nan,
+APP-0951,CC - 951,J001,,nan,
+APP-0952,CC - 952,J001,,nan,
+APP-0953,CC - 953,J001,,nan,
