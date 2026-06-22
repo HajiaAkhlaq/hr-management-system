@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interviews</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <header>
+        <div class="brand">HR Management System</div>
+        <nav>
+            <a href="/dashboard">Dashboard</a>
+            <a href="/candidates">Candidates</a>
+            <a href="/applications">Applications</a>
+            <a href="/interviews">Interviews</a>
+            <a href="/employees">Employees</a>
+            <a href="/training">Training</a>
+        </nav>
+    </header>
+    <main>
+        <section class="page-title">
+            <h1>Interviews</h1>
+            <p>Manage interview schedules and results.</p>
+        </section>
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                {% for message in messages %}
+                    <div class="alert">{{ message }}</div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+        {% if error %}
+            <div class="alert">{{ error }}</div>
+        {% endif %}
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Candidate</th>
+                        <th>Job</th>
+                        <th>Stage</th>
+                        <th>Interview Date</th>
+                        <th>Core Skills</th>
+                        <th>Speaking</th>
+                        <th>Writing</th>
+                        <th>Status</th>
+                        <th>Time Slot</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item in interviews %}
+    <tr>
+        <td>{{ item.id }}</td>
+        <td>{{ item.candidate_name if item.candidate_name and item.candidate_name != 'Unknown' else 'NULL' }}</td>
+        <td>{{ item.job_title if item.job_title and item.job_title != 'Not Available' else 'NULL' }}</td>
+        <td>{{ item.stage if item.stage else 'NULL' }}</td>
+        <td>{{ item.interview_date if item.interview_date else 'NULL' }}</td>
+        <td>{{ item.core_skills_score if item.core_skills_score else 'NULL' }}</td>
+        <td>{{ item.speaking_score if item.speaking_score else 'NULL' }}</td>
+        <td>{{ item.writing_score if item.writing_score else 'NULL' }}</td>
+        <td>{{ item.interview_status if item.interview_status else 'NULL' }}</td>
+        <td>{{ item.time_slot if item.time_slot else 'NULL' }}</td>
+        <td>
+            <a class="button small" href="/interviews/edit/{{ item.id }}">Edit</a>
+            <a class="button small delete" href="/interviews/delete/{{ item.id }}">Delete</a>
+        </td>
+    </tr>
+{% else %}
+    <tr><td colspan="11">No interviews found.</td></tr>
+{% endfor %}
+                </tbody>
+            </table>
+        </div>
+        <div class="form-box">
+            <h2>{{ 'Edit Interview' if interview else 'Add Interview' }}</h2>
+            <form method="post" action="{{ url_for('edit_interview', interview_id=interview.id) if interview else url_for('add_interview') }}">
+                <label>Application</label>
+                <select name="application_id" required>
+                    <option value="">Select application</option>
+                    {% for app in applications %}
+                        <option value="{{ app.id }}" {% if interview and interview.application_id == app.id %}selected{% endif %}>
+                            {{ app.candidate_name }} - {{ app.job_title }}
+                        </option>
+                    {% endfor %}
+                </select>
+                <label>Candidate ID</label>
+                <input type="text" name="candidate_id" value="{{ interview.candidate_id if interview else '' }}">
+                <label>Stage</label>
+                <input type="text" name="stage" value="{{ interview.stage if interview else '' }}">
+                <label>Interview Date</label>
+                <input type="date" name="interview_date" value="{{ interview.interview_date if interview else '' }}">
+                <label>Status</label>
+                <input type="text" name="interview_status" value="{{ interview.interview_status if interview else '' }}">
+                <label>Time Slot</label>
+                <input type="text" name="time_slot" value="{{ interview.time_slot if interview else '' }}">
+                <button type="submit">{{ 'Update Interview' if interview else 'Add Interview' }}</button>
+            </form>
+        </div>
+    </main>
+</body>
+</html>

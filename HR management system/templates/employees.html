@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employees</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <header>
+        <div class="brand">HR Management System</div>
+        <nav>
+            <a href="/dashboard">Dashboard</a>
+            <a href="/candidates">Candidates</a>
+            <a href="/applications">Applications</a>
+            <a href="/interviews">Interviews</a>
+            <a href="/employees">Employees</a>
+            <a href="/training">Training</a>
+        </nav>
+    </header>
+    <main>
+        <section class="page-title">
+            <h1>Employees</h1>
+            <p>View and manage employee records.</p>
+        </section>
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                {% for message in messages %}
+                    <div class="alert">{{ message }}</div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+        {% if error %}
+            <div class="alert">{{ error }}</div>
+        {% endif %}
+        <div class="table-container">
+            <table>
+                <thead>
+    <tr>
+        <th>Employee ID</th>
+        <th>Candidate ID</th>
+        <th>Full Name</th>
+        <th>Country</th>
+        <th>Email</th>
+        <th>Qualification</th>
+        <th>Department</th>
+        <th>Hiring Date</th>
+        <th>Employment Status</th>
+        <th>Actions</th>
+    </tr>
+</thead>
+<tbody>
+   {% for item in employees %}
+    <tr>
+        <td>{{ item.id }}</td>
+        <td>{{ item.candidate_id if item.candidate_id else 'NULL' }}</td>
+        <td>{{ item.full_name if item.full_name else 'NULL' }}</td>
+        <td>{{ item.country if item.country else 'NULL' }}</td>
+        <td>{{ item.email if item.email else 'NULL' }}</td>
+        <td>{{ item.qualification if item.qualification else 'NULL' }}</td>
+        <td>{{ item.department_name if item.department_name else 'NULL' }}</td>
+        <td>{{ item.hire_date if item.hire_date else 'NULL' }}</td>
+        <td>{{ item.employment_status if item.employment_status else 'NULL' }}</td>
+        <td>
+            <a class="button small" href="/employees/edit/{{ item.id }}">Edit</a>
+            <a class="button small delete" href="/employees/delete/{{ item.id }}">Delete</a>
+        </td>
+    </tr>
+{% else %}
+    <tr><td colspan="10">No employees found.</td></tr>
+{% endfor %}
+</tbody>
+            </table>
+        </div>
+    </main>

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Applications</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <header>
+        <div class="brand">HR Management System</div>
+        <nav>
+            <a href="/dashboard">Dashboard</a>
+            <a href="/candidates">Candidates</a>
+            <a href="/applications">Applications</a>
+            <a href="/interviews">Interviews</a>
+            <a href="/employees">Employees</a>
+            <a href="/training">Training</a>
+        </nav>
+    </header>
+    <main>
+        <section class="page-title">
+            <h1>Applications</h1>
+            <p>Track candidate applications for open jobs.</p>
+        </section>
+
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                {% for message in messages %}
+                    <div class="alert">{{ message }}</div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+        {% if error %}
+            <div class="alert">{{ error }}</div>
+        {% endif %}
+
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Application ID</th>
+                        <th>Candidate ID</th>
+                        <th>Candidate Name</th>
+                        <th>Job ID</th>
+                        <th>Job Title</th>
+                        <th>Application Date</th>
+                        <th>Final Status</th>
+                        <th>Additional Remarks</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item in applications %}
+                    <tr>
+                        <td>{{ item.id }}</td>
+                        <td>{{ item.candidate_id if item.candidate_id else 'NULL' }}</td>
+                        <td>{{ item.candidate_name if item.candidate_name else 'NULL' }}</td>
+                        <td>{{ item.job_posting_id if item.job_posting_id else 'NULL' }}</td>
+                        <td>{{ item.job_title if item.job_title else 'NULL' }}</td>
+                        <td>{{ item.application_date if item.application_date else 'NULL' }}</td>
+                        <td>{{ item.status if item.status else 'NULL' }}</td>
+                        <td>{{ item.remarks if item.remarks else 'NULL' }}</td>
+                        <td>
+                            <a class="button small" href="/applications/edit/{{ item.id }}">Edit</a>
+                            <a class="button small delete" href="/applications/delete/{{ item.id }}">Delete</a>
+                        </td>
+                    </tr>
+                    {% else %}
+                        <tr><td colspan="9">No applications found.</td></tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <div class="form-box">
+    <h2>{{ 'Edit Application' if application else 'Add Application' }}</h2>
+    <form method="post" action="{{ url_for('edit_application', application_id=application.id) if application else url_for('add_application') }}">
+
+        <label>Candidate</label>
+        <select name="candidate_id">
+            <option value="">-- Select Candidate --</option>
+            {% for c in candidates %}
+            <option value="{{ c.id }}" {% if application and application.candidate_id == c.id %}selected{% endif %}>
+                {{ c.id }} — {{ c.Full_Name }}
+            </option>
+            {% endfor %}
+        </select>
+
+        <label>Job Posting</label>
+        <select name="job_posting_id">
+            <option value="">-- Select Job --</option>
+            {% for j in job_postings %}
+            <option value="{{ j.id }}" {% if application and application.job_posting_id == j.id %}selected{% endif %}>
+                {{ j.id }} — {{ j.title }}
+            </option>
+            {% endfor %}
+        </select>
+
+        <label>Application Date</label>
+        <input type="date" name="application_date" value="{{ application.application_date if application else '' }}">
+
+        <label>Final Status</label>
+        <select name="status">
+            {% set current_status = application.status if application else '' %}
+            <option value="">-- Select Status --</option>
+            <option value="Applied" {% if current_status == 'Applied' %}selected{% endif %}>Applied</option>
+            <option value="Shortlisted" {% if current_status == 'Shortlisted' %}selected{% endif %}>Shortlisted</option>
+            <option value="Interview Scheduled" {% if current_status == 'Interview Scheduled' %}selected{% endif %}>Interview Scheduled</option>
+            <option value="Offered" {% if current_status == 'Offered' %}selected{% endif %}>Offered</option>
+            <option value="Hired" {% if current_status == 'Hired' %}selected{% endif %}>Hired</option>
+            <option value="Rejected" {% if current_status == 'Rejected' %}selected{% endif %}>Rejected</option>
+        </select>
+
+        <label>Additional Remarks</label>
+        <textarea name="remarks" rows="3" placeholder="Any notes...">{{ application.remarks if application else '' }}</textarea>
+
+        <button type="submit">{{ 'Update Application' if application else 'Add Application' }}</button>
+    </form>
+</div>
+
+        
+    </main>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Training</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <header>
+        <div class="brand">HR Management System</div>
+        <nav>
+            <a href="/dashboard">Dashboard</a>
+            <a href="/candidates">Candidates</a>
+            <a href="/applications">Applications</a>
+            <a href="/interviews">Interviews</a>
+            <a href="/employees">Employees</a>
+            <a href="/training">Training</a>
+        </nav>
+    </header>
+    <main>
+        <section class="page-title">
+            <h1>Training</h1>
+            <p>Manage employee training records and programs.</p>
+        </section>
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                {% for message in messages %}
+                    <div class="alert">{{ message }}</div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+        {% if error %}
+            <div class="alert">{{ error }}</div>
+        {% endif %}
+        <div class="table-container">
+            <table>
+                <thead>
+    <tr>
+        <th>ET ID</th>
+        <th>Employee ID</th>
+        <th>Employee Name</th>
+        <th>Program ID</th>
+        <th>Trainer ID</th>
+        <th>Department ID</th>
+        <th>Training Start Date</th>
+        <th>Country</th>
+        <th>Qualifications</th>
+        <th>Completion Status</th>
+        <th>Actions</th>
+    </tr>
+</thead>
+<tbody>
+   {% for item in records %}
+    <tr>
+        <td>{{ item.id }}</td>
+        <td>{{ item.employee_id if item.employee_id else 'NULL' }}</td>
+        <td>{{ item.employee_name if item.employee_name else 'NULL' }}</td>
+        <td>{{ item.training_program_id if item.training_program_id else 'NULL' }}</td>
+        <td>{{ item.trainer_id if item.trainer_id else 'NULL' }}</td>
+        <td>{{ item.department_id if item.department_id else 'NULL' }}</td>
+        <td>{{ item.completion_date if item.completion_date else 'NULL' }}</td>
+        <td>{{ item.country if item.country else 'NULL' }}</td>
+        <td>{{ item.qualifications if item.qualifications else 'NULL' }}</td>
+        <td>{{ item.status if item.status else 'NULL' }}</td>
+        <td>
+            <a class="button small" href="/training/edit/{{ item.id }}">Edit</a>
+            <a class="button small delete" href="/training/delete/{{ item.id }}">Delete</a>
+        </td>
+    </tr>
+{% else %}
+    <tr><td colspan="11">No training records found.</td></tr>
+{% endfor %}
+</tbody> 
+     </table>
+        </div>     
+    </main>  
+
+                

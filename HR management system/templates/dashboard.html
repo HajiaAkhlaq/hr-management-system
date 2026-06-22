@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HR Dashboard</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <header>
+        <div class="brand">HR Management System</div>
+        <nav>
+            <a href="/dashboard">Dashboard</a>
+            <a href="/candidates">Candidates</a>
+            <a href="/applications">Applications</a>
+            <a href="/interviews">Interviews</a>
+            <a href="/employees">Employees</a>
+            <a href="/training">Training</a>
+        </nav>
+    </header>
+    <main>
+        <section class="page-title">
+            <h1>Dashboard</h1>
+            <p>Review totals for the HR management system.</p>
+        </section>
+        {% if error %}
+            <div class="alert">{{ error }}</div>
+        {% endif %}
+        <div class="grid">
+            <div class="card">
+                <h2>Total Candidates</h2>
+                <p>{{ totals.total_candidates }}</p>
+            </div>
+            <div class="card">
+                <h2>Total Applications</h2>
+                <p>{{ totals.total_applications }}</p>
+            </div>
+            <div class="card">
+                <h2>Total Interviews</h2>
+                <p>{{ totals.total_interviews }}</p>
+            </div>
+            <div class="card">
+                <h2>Total Employees</h2>
+                <p>{{ totals.total_employees }}</p>
+            </div>
+            <div class="card">
+                <h2>Total Training Records</h2>
+                <p>{{ totals.total_training }}</p>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
